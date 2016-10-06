@@ -21,6 +21,11 @@ void foo200()
 	printf("hahaha\n");
 }
 
+void foo300()
+{
+	printf("github good\n");
+}
+
 void main()
 {
 #ifdef DEBUG
