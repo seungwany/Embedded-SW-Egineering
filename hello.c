@@ -16,6 +16,11 @@ void foo1000()
 	printf("I want to go home \n");
 }
 
+void foo200()
+{
+	printf("hahaha\n");
+}
+
 void main()
 {
 #ifdef DEBUG
