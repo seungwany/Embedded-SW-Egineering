@@ -8,6 +8,7 @@ void foo1()
 
 void main()
 {
+#ifdef DEBUG
+	printf("[DEBUG] foo1 has some serious bugs...\n");
 	printf("HelloWorld\n");
-
 }
