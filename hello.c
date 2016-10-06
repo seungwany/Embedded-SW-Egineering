@@ -21,6 +21,11 @@ void foo200()
 	printf("hahaha\n");
 }
 
+void foo400()
+{
+	printf("woooo\n");
+}
+
 void main()
 {
 #ifdef DEBUG
