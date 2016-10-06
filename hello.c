@@ -6,6 +6,11 @@ void foo1()
 
 }
 
+void foo100()
+{
+	printf("foo100 \n");
+}
+
 void main()
 {
 #ifdef DEBUG
