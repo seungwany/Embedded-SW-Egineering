@@ -11,6 +11,11 @@ void foo100()
 	printf("foo100 \n");
 }
 
+void foo1000()
+{
+	printf("I want to go home \n");
+}
+
 void main()
 {
 #ifdef DEBUG
