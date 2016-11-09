@@ -21,9 +21,10 @@ void foo200()
 	printf("hahaha\n");
 }
 
-void foo400()
+void foo300()
 {
-	printf("woooo\n");
+	printf("github good\n");
+>>>>>>> fab78b9ff3e16f99564066682b826aa63ad428e6
 }
 
 void main()
